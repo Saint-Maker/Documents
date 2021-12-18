@@ -17,7 +17,7 @@ Unique selling points (USPs):
 >Saint Maker: the project of the University of St Hildegard, a nexus of Catholic life, using present and future technological means to create a framework for Catholic life that promotes sanctity. 
  
 Proof of excellence: 
->All I can think of for this section would be a Team section, just to give a face to the org
+>All I can think of for this section would be a Team section, just to give a face to the org (maybe use Discord widget instead to show activity+size of community? might be a better starting point instead of a team section)
 
 Calls to action (CTAs): 
 >Join Discord (https://discord.gg/9uRrU9wnJD) 
