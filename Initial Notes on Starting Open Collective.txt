@@ -1,0 +1,33 @@
+Open Collective Notes 12-31-2021
+
+All info coming from the docs: https://docs.opencollective.com/help/
+
+Due to initial research, seems that starting it as an "Open Source Project" would be too daunting
+
+Starting as a "Community" might be the better way
+
+Need name (got that) and a clear and concise mission (that will take some work)
+
+Should have an image (we've got that), core contributors (need to work on that) 
+
+Can start submitting expenses before having a fiscal host
+
+We also seem to need to have things budgeted out, but I don't see anything really spelled out in any of the examples of successful collectives I've looked at
+
+Fiscal Host is what handles the back end of the money stuff, here's the list of them: https://opencollective.com/hosts
+
+Here's where I see problems: we're obviously faith-based, and Catholic on top of that. We're trying to do a lot of things, no simple mission. The end goal of the Saint Maker is necessarily nebulous. We don't have a lot of people, and no distinct organization. Technically not a charity, yes, technically about education, and we'll probably have to lean on that, but the scope is so much broader.
+
+Thought: setup just a "scholarship" part of the Saint Maker as the open collective - people and eventually the teaching companies can contribute to fund the student education aspect, while other costs (startup of teaching companies, etc...) is handled more on a case-by-case basis (or even better, the first startup includes raising funds to get the Not For Profit started and a bank account where we can route our own funds and move away from Open Collective
+
+Example of a scholarship open collective: https://opencollective.com/endurance-scholarship#category-ABOUT
+
+Not a ton of guidance on the budgeting part: https://docs.opencollective.com/help/collectives/budget
+
+Potentially interesting option of being an "Independant Collective": https://docs.opencollective.com/help/independent-collectives/about-independent-collectives
+
+Realize I might be overthinking a lot of aspects, was looking through some of the collectives on the site and they are stupid simple, and still have a fiscal host, even found one that only has one core contributor!
+
+Recommendation: build out the Open Collective profile for the Saint Maker, refine exactly what we are aiming for budget-wise, apply to a fiscal host, learn from the experience, and we either win or have to try again, this time with some knowledge of what doesn't work.
+
+One last thought: whatever aspect of Saint Maker funding we end up making this Open Collective correspond to, needs to be something long-standing. We are wanting to get people donating to this that can donate for a long time, towards a consistant goal, with visible results and progress we can report on.
